@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "title": "6666",
+      "id": 1
+    },
+    {
+      "title": "6666",
+      "author": "cx",
+      "id": 3
+    },
+    {
+      "title": "321321",
+      "author": "cx",
+      "id": 4
+    },
+    {
+      "title": "321321",
+      "author": "cx",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
