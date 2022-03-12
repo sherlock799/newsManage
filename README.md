@@ -1,6 +1,6 @@
 # 新闻管理系统
 
-​										基于react构建
+​										基于react,antd,echarts构建
 
 ## 使用
 
