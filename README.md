@@ -6,7 +6,7 @@
 
 1.  安装 node.js
 2.  打开终端，使用 npm i 导入依赖包
-3.  使用json-server启动src/assets/db.json
+3.  使用json-server --watch db.json --port 3004启动src/assets/db.json
 4.  使用npm start启动程序
 
 ## 功能
